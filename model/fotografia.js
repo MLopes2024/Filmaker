@@ -24,4 +24,4 @@ async function selecioneFotografia(id){
   return idFotografia;
 }
 
-module.exports = {insereFotografia, deleteFotografia, atualizaFotofrafia, selecioneFotografia};
+module.exports = {insereFotografia, deleteFotografia, atualizaFotografia, selecioneFotografia};
